@@ -1,5 +1,5 @@
 
-# Spam Text Detection Project
+# Spam Message Detection Project
 
 This project focuses on detecting spam text using various machine learning algorithms. The dataset is sourced from Kaggle, and the following algorithms were implemented and compared:
 https://www.kaggle.com/code/shairal1/notebook2534de4232 
